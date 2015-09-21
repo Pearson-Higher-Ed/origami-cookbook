@@ -4,6 +4,12 @@ It is preferable for new products to use [Gulp.js](http://gulpjs.com/) as a buil
 
 ## Building and running the example
 
+To run this example, you must first install the Grunt CLI:
+
+```
+npm install -g grunt-cli
+```
+
 1. Change into the recipe's root directory: `cd recipes/grunt`
 2. Run `npm install && bower install`
 3. Run `grunt serve`
