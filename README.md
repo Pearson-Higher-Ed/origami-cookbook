@@ -13,6 +13,10 @@ Each recipe includes a readme with instructions for running the example. Use the
 
 ----------
 
+#### Contributing to the cookbook
+
+If you wish to contribute directly, please take care to follow the [Origami syntax rules and standards](https://origami.pearsoned.com/docs/syntax/). When writing your commit message(s), please follow the [conventional-changelog](https://github.com/ajoslin/conventional-changelog/blob/master/conventions/angular.md) conventions. In general, commits should be atomic and cleaned up as necessary prior to opening a pull request.
+
 #### A note for component developers
 
 This repository is intended to provide general examples for using *any* component. Component-specific examples, if provided, should be included in the component's repository.
