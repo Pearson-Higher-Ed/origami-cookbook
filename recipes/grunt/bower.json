@@ -1,0 +1,6 @@
+{
+  "name": "recipes-grunt",
+  "devDependencies": {
+    "o-app-header": "^1.0.0"
+  }
+}
