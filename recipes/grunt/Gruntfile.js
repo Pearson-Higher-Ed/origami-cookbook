@@ -16,8 +16,8 @@ module.exports = function(grunt) {
 
 		origami: {
 			dist: {
-				js: 'origami-main.js',
-				sass: 'origami-main.scss'
+				js: 'main.js',
+				sass: 'main.scss'
 			}
 		}
 	});
