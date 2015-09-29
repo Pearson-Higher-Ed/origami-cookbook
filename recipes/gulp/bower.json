@@ -1,0 +1,7 @@
+{
+  "name": "recipes-grunt",
+  "dependencies": {
+    "o-app-header": "^1.0.0",
+    "o-drawer": "~1.0.0"
+  }
+}
