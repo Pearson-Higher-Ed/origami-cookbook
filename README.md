@@ -8,8 +8,8 @@ Each recipe includes a readme with instructions for running the example. Use the
 
 ## Table of Contents
 
-- [Building components manually using Gulp](recipes/gulp/README.md)
-- [Building components manually using Grunt](recipes/grunt/README.md)
+- [Building components manually using Gulp](recipes/gulp)
+- [Building components manually using Grunt](recipes/grunt)
 
 ----------
 
